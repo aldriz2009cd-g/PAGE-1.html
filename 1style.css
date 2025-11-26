@@ -10,7 +10,7 @@ body {
     color: #333;
 }
 
-/* Banner */
+
 .promo-banner {
     background-color: #2d3436;
     color: white;
@@ -19,7 +19,7 @@ body {
     font-size: 14px;
 }
 
-/* Header */
+
 .header {
     background-color: white;
     padding: 20px 40px;
@@ -248,4 +248,5 @@ body {
         font-size: 36px;
         padding: 40px 0;
     }
+
 }
